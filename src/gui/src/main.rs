@@ -1,3 +1,5 @@
+use gui::addtext;
+
 fn main() {
-    println!("Hello, world!");
+    addtext::show_add_text_dialog();
 }
