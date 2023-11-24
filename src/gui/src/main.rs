@@ -1,5 +1,5 @@
-use gui::addtext;
+use gui::textnote::text_note_run;
 
 fn main() {
-    addtext::show_add_text_dialog();
+    text_note_run();    
 }

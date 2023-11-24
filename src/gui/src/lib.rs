@@ -1,1 +1,1 @@
-pub mod addtext;
+pub mod textnote;
