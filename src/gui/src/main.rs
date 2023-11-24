@@ -1,3 +1,5 @@
+use gui::textnote::text_note_run;
+
 fn main() {
-    println!("Hello, world!");
+    text_note_run();    
 }
